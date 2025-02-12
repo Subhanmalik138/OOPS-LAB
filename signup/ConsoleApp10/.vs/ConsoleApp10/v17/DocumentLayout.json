@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Subhan Malik\\source\\repos\\ConsoleApp10\\",
+  "WorkspaceRootPath": "D:\\OOPS LAB\\signup\\ConsoleApp10\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A462ECC0-2005-4BE6-B45A-644CF5B30D30}|ConsoleApp10\\ConsoleApp10.csproj|c:\\users\\subhan malik\\source\\repos\\consoleapp10\\consoleapp10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A462ECC0-2005-4BE6-B45A-644CF5B30D30}|ConsoleApp10\\ConsoleApp10.csproj|d:\\oops lab\\signup\\consoleapp10\\consoleapp10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A462ECC0-2005-4BE6-B45A-644CF5B30D30}|ConsoleApp10\\ConsoleApp10.csproj|solutionrelative:consoleapp10\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Subhan Malik\\source\\repos\\ConsoleApp10\\ConsoleApp10\\Program.cs",
+              "DocumentMoniker": "D:\\OOPS LAB\\signup\\ConsoleApp10\\ConsoleApp10\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp10\\Program.cs",
-              "ToolTip": "C:\\Users\\Subhan Malik\\source\\repos\\ConsoleApp10\\ConsoleApp10\\Program.cs",
+              "ToolTip": "D:\\OOPS LAB\\signup\\ConsoleApp10\\ConsoleApp10\\Program.cs",
               "RelativeToolTip": "ConsoleApp10\\Program.cs",
-              "ViewState": "AgIAADcAAAAAAAAAAADwv4IAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwIIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-22T10:48:20.825Z",
               "EditorCaption": ""
