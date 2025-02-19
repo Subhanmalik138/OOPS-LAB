@@ -1,0 +1,43 @@
+E:\New folder\Lab2_Manual\bin\Debug\net9.0\Lab2_Manual.exe
+E:\New folder\Lab2_Manual\bin\Debug\net9.0\Lab2_Manual.deps.json
+E:\New folder\Lab2_Manual\bin\Debug\net9.0\Lab2_Manual.runtimeconfig.json
+E:\New folder\Lab2_Manual\bin\Debug\net9.0\Lab2_Manual.dll
+E:\New folder\Lab2_Manual\bin\Debug\net9.0\Lab2_Manual.pdb
+E:\New folder\Lab2_Manual\obj\Debug\net9.0\Lab2_Manual.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Lab2_Manual\obj\Debug\net9.0\Lab2_Manual.AssemblyInfoInputs.cache
+E:\New folder\Lab2_Manual\obj\Debug\net9.0\Lab2_Manual.AssemblyInfo.cs
+E:\New folder\Lab2_Manual\obj\Debug\net9.0\Lab2_Manual.csproj.CoreCompileInputs.cache
+E:\New folder\Lab2_Manual\obj\Debug\net9.0\Lab2_Manual.dll
+E:\New folder\Lab2_Manual\obj\Debug\net9.0\refint\Lab2_Manual.dll
+E:\New folder\Lab2_Manual\obj\Debug\net9.0\Lab2_Manual.pdb
+E:\New folder\Lab2_Manual\obj\Debug\net9.0\Lab2_Manual.genruntimeconfig.cache
+E:\New folder\Lab2_Manual\obj\Debug\net9.0\ref\Lab2_Manual.dll
+E:\New folder\Lab3_Manual\bin\Debug\net9.0\Lab2_Manual.exe
+E:\New folder\Lab3_Manual\bin\Debug\net9.0\Lab2_Manual.deps.json
+E:\New folder\Lab3_Manual\bin\Debug\net9.0\Lab2_Manual.runtimeconfig.json
+E:\New folder\Lab3_Manual\bin\Debug\net9.0\Lab2_Manual.dll
+E:\New folder\Lab3_Manual\bin\Debug\net9.0\Lab2_Manual.pdb
+E:\New folder\Lab3_Manual\obj\Debug\net9.0\Lab2_Manual.GeneratedMSBuildEditorConfig.editorconfig
+E:\New folder\Lab3_Manual\obj\Debug\net9.0\Lab2_Manual.AssemblyInfoInputs.cache
+E:\New folder\Lab3_Manual\obj\Debug\net9.0\Lab2_Manual.AssemblyInfo.cs
+E:\New folder\Lab3_Manual\obj\Debug\net9.0\Lab2_Manual.csproj.CoreCompileInputs.cache
+E:\New folder\Lab3_Manual\obj\Debug\net9.0\Lab2_Manual.dll
+E:\New folder\Lab3_Manual\obj\Debug\net9.0\refint\Lab2_Manual.dll
+E:\New folder\Lab3_Manual\obj\Debug\net9.0\Lab2_Manual.pdb
+E:\New folder\Lab3_Manual\obj\Debug\net9.0\Lab2_Manual.genruntimeconfig.cache
+E:\New folder\Lab3_Manual\obj\Debug\net9.0\ref\Lab2_Manual.dll
+E:\Mutyyab\C# files\OOP tasks\Lab3_Manual\bin\Debug\net9.0\Lab2_Manual.exe
+E:\Mutyyab\C# files\OOP tasks\Lab3_Manual\bin\Debug\net9.0\Lab2_Manual.deps.json
+E:\Mutyyab\C# files\OOP tasks\Lab3_Manual\bin\Debug\net9.0\Lab2_Manual.runtimeconfig.json
+E:\Mutyyab\C# files\OOP tasks\Lab3_Manual\bin\Debug\net9.0\Lab2_Manual.dll
+E:\Mutyyab\C# files\OOP tasks\Lab3_Manual\bin\Debug\net9.0\Lab2_Manual.pdb
+E:\Mutyyab\C# files\OOP tasks\Lab3_Manual\obj\Debug\net9.0\Lab2_Manual.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mutyyab\C# files\OOP tasks\Lab3_Manual\obj\Debug\net9.0\Lab2_Manual.AssemblyInfoInputs.cache
+E:\Mutyyab\C# files\OOP tasks\Lab3_Manual\obj\Debug\net9.0\Lab2_Manual.AssemblyInfo.cs
+E:\Mutyyab\C# files\OOP tasks\Lab3_Manual\obj\Debug\net9.0\Lab2_Manual.csproj.CoreCompileInputs.cache
+E:\Mutyyab\C# files\OOP tasks\Lab3_Manual\obj\Debug\net9.0\Lab2_Manual.sourcelink.json
+E:\Mutyyab\C# files\OOP tasks\Lab3_Manual\obj\Debug\net9.0\Lab2_Manual.dll
+E:\Mutyyab\C# files\OOP tasks\Lab3_Manual\obj\Debug\net9.0\refint\Lab2_Manual.dll
+E:\Mutyyab\C# files\OOP tasks\Lab3_Manual\obj\Debug\net9.0\Lab2_Manual.pdb
+E:\Mutyyab\C# files\OOP tasks\Lab3_Manual\obj\Debug\net9.0\Lab2_Manual.genruntimeconfig.cache
+E:\Mutyyab\C# files\OOP tasks\Lab3_Manual\obj\Debug\net9.0\ref\Lab2_Manual.dll
