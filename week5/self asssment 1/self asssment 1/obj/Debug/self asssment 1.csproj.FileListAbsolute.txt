@@ -1,0 +1,7 @@
+C:\Users\Subhan Malik\source\repos\self asssment 1\self asssment 1\obj\Debug\self asssment 1.csproj.AssemblyReference.cache
+C:\Users\Subhan Malik\source\repos\self asssment 1\self asssment 1\obj\Debug\self asssment 1.csproj.CoreCompileInputs.cache
+C:\Users\Subhan Malik\source\repos\self asssment 1\self asssment 1\bin\Debug\self asssment 1.exe.config
+C:\Users\Subhan Malik\source\repos\self asssment 1\self asssment 1\bin\Debug\self asssment 1.exe
+C:\Users\Subhan Malik\source\repos\self asssment 1\self asssment 1\bin\Debug\self asssment 1.pdb
+C:\Users\Subhan Malik\source\repos\self asssment 1\self asssment 1\obj\Debug\self asssment 1.exe
+C:\Users\Subhan Malik\source\repos\self asssment 1\self asssment 1\obj\Debug\self asssment 1.pdb
